@@ -1,7 +1,7 @@
 ### Hello there
  - Depressed & overthinking human
  - I dunno why, i just want to die
- - I'm currently working on finding a new way to disappear
+ - I'm currently work on finding a new way to disappear
  - Fun fact : life suck
 
 
