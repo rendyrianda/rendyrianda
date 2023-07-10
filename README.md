@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Rendy Rianda</h1>
+<h1 align="center">Hi I'm Rendy</h1>
 
 - 🔭 I’m currently working on my final thesis
 - 🌱 I’m currently learning about **Cloud Computing** & **Web Development**
