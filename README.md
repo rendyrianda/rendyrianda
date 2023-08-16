@@ -1,8 +1,8 @@
 <h1 align="center">Hi I'm Rendy</h1>
 
-- 🔭 I’m currently working on my final thesis
+- 🔭 I’m currently waiting for my graduation
 - 🌱 I’m currently learning about **Cloud Computing** & **Web Development**
-- ⚠️⚠️ Most of my repo is private due to some circumstances so don't expect to see lot of activity ⚠️⚠️
+- ⚠️⚠️ Most of my repo is private due to some circumstances, don't expect to see lot of activity ⚠️⚠️
 - 📫 How to reach me **rndyrnda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
