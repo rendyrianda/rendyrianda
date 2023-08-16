@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my final thesis
 - 🌱 I’m currently learning about **Cloud Computing** & **Web Development**
-
+- ⚠️⚠️ Most of my repo is private due to some circumtances so don't expect to see lot of commit ⚠️⚠️
 - 📫 How to reach me **rndyrnda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
