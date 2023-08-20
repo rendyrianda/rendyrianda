@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently waiting for my graduation
 - 🌱 I’m currently learning about **Cloud Computing** & **Web Development**
-- ⚠️⚠️ Most of my repo is private due to some circumstances, don't expect to see lot of activity ⚠️⚠️
 - 📫 How to reach me **rndyrnda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
