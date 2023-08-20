@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Rendy</h1>
 
 - 🔭 I’m currently waiting for my graduation
-- 🌱 I’m currently learning about **Cloud Computing** & **Web Development**
+- 🌱 I’m currently learning about **Cloud Computing** & **Web Development** (mostly the backend stuff)
 - 📫 How to reach me **rndyrnda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
