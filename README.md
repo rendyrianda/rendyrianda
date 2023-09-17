@@ -1,6 +1,6 @@
 ## Hi, I'm Rendy
 ### Cloud/DevOps/IoT
-![Chihaya sad](chihaya.gif)
+![ice cream](aki-eat-ice-cream.gif)
   
 Most of my project is about web development and some IoT stuff  
 There is also some cloud configuration in the mix  
