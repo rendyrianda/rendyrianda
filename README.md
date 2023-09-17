@@ -1,3 +1,9 @@
-<img src="bann_er.png" style=" width:100%; height:100%">
-<img src="chihaya.gif" style="display: block; margin: 0 auto;">
+![Chihaya sad](chihaya.gif)
+## Hi, I'm Rendy
+### Cloud/DevOps/IoT
 
+Most of my project is about web development and some IoT stuff
+There is also some cloud configuration in the mix
+Currenty learn everything
+
+Hit me up *[here](mailto:rndyrnda@gmail.com)*.
