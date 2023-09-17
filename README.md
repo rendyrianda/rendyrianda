@@ -1,6 +1,6 @@
-![Chihaya sad](chihaya.gif)
 ## Hi, I'm Rendy
 ### Cloud/DevOps/IoT
+![Chihaya sad](chihaya.gif)
 
 Most of my project is about web development and some IoT stuff
 There is also some cloud configuration in the mix
